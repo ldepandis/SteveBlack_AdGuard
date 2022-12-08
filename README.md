@@ -1,7 +1,7 @@
 # StevenBlack_AdGuard
 Steven Black's hosts file ported to AdGuard syntax
 
-Every credit should go to the author.
-This port is for running is hosts file in an Android phone via AdGuard Pro DNS filtering.
+Every credit should go to the original author.
+This port is just for running the hosts file content in an Android phone via AdGuard Pro DNS filtering.
 
 https://github.com/StevenBlack
