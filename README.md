@@ -4,4 +4,6 @@ Steven Black's hosts file ported to AdGuard syntax
 Every credit should go to the original author.
 This port is just for running the hosts file content in an Android phone via AdGuard Pro DNS filtering.
 
+Thank you, Steven!
+
 https://github.com/StevenBlack
